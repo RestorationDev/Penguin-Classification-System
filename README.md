@@ -3,6 +3,7 @@
 This project analyzes the Palmer Penguins dataset to explore species differences and build predictive models. It combines statistical tests, visualization, and machine learning for a complete workflow.
 
 Key Steps
+
 	•	Data Cleaning: Removed irrelevant columns, handled missing values, and encoded categorical features.
 	•	Exploratory Analysis:
 	•	Grouped statistics by island and species
@@ -18,6 +19,7 @@ Key Steps
 	•	Decision region plots to visualize model boundaries per island
 
 Highlights
+
 	•	ANOVA showed species differ significantly in key body measurements.
 	•	Regression and classifiers achieved strong performance in predicting species.
 	•	Demonstrates a pipeline from data cleaning → visualization → statistical testing → ML modeling.
